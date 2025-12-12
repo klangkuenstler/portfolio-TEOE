@@ -1,7 +1,7 @@
 # sidebar
 
-alt = Marcos Ribeiro
-Marcos Ribeiro
+alt = Marcos ribeiro
+Marcos ribeiro
 Web developer
 
 Show Contacts
