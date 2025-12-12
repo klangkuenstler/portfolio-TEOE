@@ -1,24 +1,22 @@
-vCard - Personal Portfolio
-
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Marcos Ribeiro
+Marcos Ribeiro
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+marcospribeiro57@gmail.com
 
 Phone
-+1 (213) 352-2795
++351 938 385 741
 
 Birthday
-June 23, 1982
+November 9, 2007
 
 Location
-Sacramento, California, USA
+Aveiro, Portugal
 
 # navbar
 
@@ -32,9 +30,11 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am an Informatic System's Programming student at ESTGA-UA (Aveiro), and part-time Web Developer from Viseu, Portugal, working in web development and my own home lab, where I get to throw all my knowledge and love into. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
+/*
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+*/
 
 
 ## service
@@ -56,6 +56,7 @@ Professional development of applications for iOS and Android.
 alt = camera icon
 Photography
 I make high-quality photos of any category at a professional level.
+
 
 
 ## testimonials
