@@ -260,6 +260,33 @@ sendo em âmbito do projeto ERASMUS+, em Ourense, Espanha.
 Trabalhei também no Minipreço em Agosto de 2024. Diria que tive uma experiência dentro do normal, nada a apontar, apenas tarefas de reposição de produtos e caixa.
 Para além destes trabalhos remunerados, fiz, no total, 4 estágios profissionais durante o meu secundário. 
 
-5.1. Mpix(https://mpix.pt), em Moimenta da Beira, Viseu, pelo período total de 2 semanas, desde o dia 01/04/2023 até 16/04/2023. Lá, as tarefas andavam à volta do que a empresa produz: elementos publicitários. Apliquei fiz e apliquei lonas, autocolantes, imprimi a lazer brindes como canetas, lápis, entre outros..., estampei camisolas e apliquei vinil publicitário em viaturas e montras.
+5.1. Mpix(https://mpix.pt), em Moimenta da Beira, Viseu, pelo período total de 2 semanas, desde o dia 01/04/2023 até 16/04/2023. Lá, as tarefas andavam à volta do que a empresa produz: elementos publicitários. Apliquei fiz e apliquei lonas, autocolantes, imprimi a lazer brindes como canetas, lápis, entre outros..., estampei camisolas e apliquei vinil publicitário em viaturas e montras. Neste estágio profissional fui avaliado com 16 valores em 20.
 
-5.2.  
+5.2. O meu segundo estágio profissional teve lugar na Megactec, em Moimenta da Beira, Viseu, pelo período de 1 mês. As tarefas elaboradas foram as indicadas no ponto 5, uma vez que se trata da mesma empresa. Elaborei também um website para a empresa, trabalho que está guardado num repositório do GitHub: https://github.com/klangkuenstler/megactec-site . Finalmente, neste estágio fui avaliado com 18 valores em 20.
+
+5.3. O meu terceiro estágio profissional teve lugar na empresa "PC As Pontes", em Ourense, Espanha. Lá, acompanhado de um colega, tive a oportunidade de experienciar tudo o que o projeto ERASMUS+ tem para oferecer numa empresa de venda e reparação de equipamentos eletrónicos, nomeadamente telemóveis e componentes para computadores.
+
+5.4. O meu quarto (e último até ao momento) estágio profissional teve lugar na empresa "Falkata Semi", no centro de Viseu. Lá, fiz scripts em python que visavam fazer "scraping" de informação na web. Elaborei também um website para a empresa. Fui avaliado com 18 valores em 20.
+
+6. Enviei em anexo o meu projeto PAP. A avaliação final foi de 18 valores em 20.
+
+7. Ocasionalmente, e por diversão, contribuo para projetos open-source, geralmente relacionados com Linux.
+
+8. Javascript, iniciante.
+Python, intermédio.
+C++ aplicado ao Arduino, intermédio.
+Ladder, iniciante.
+Dito isto, diria que as minhas linguagens de programação principais são Javascript e Pyhton.
+
+9. Vue.js iniciante, MySQL intermédio, MariaDB iniciante, Docker intermédio, Bash scripting intermédio.
+
+10. UI design, Web design (HTML, CSS e Javascript), Figma intermédio, Adobe Photoshop iniciante, Git e GitHub avançado, Firebase intermédio.
+
+11. A  minha comunicação é boa, mas tende a ser melhor após ter experiência com a equipa que me rodeia. Tenho facilidade em comunicar com clientes dada a minha experiência profissional. Sou um bom líder nas áreas onde me sinto confiante. Sou bom problem solver.
+
+12. Uma vez que é um portfolio para um trabalho da universidade, pode-se incluir a minha paixão pelo tecno e as suas origens, bem como a paixão pelo Linux e alguns dos nichos que o envolvem. Gaming competitivo de estratégia, CS2. 
+
+13. O meu objetivo é trabalhar para uma empresa que valorize o tempo e o trabalho que amo fazer. Interessam-me empresas de desenvolvimento de software e web, do front-end ao back-end.
+O meu objetivo profissional daqui a 5 anos é ser um desenvolvedor júnior. 
+
+
