@@ -1880,3 +1880,47 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+
+/* ===================================
+   ESTILOS ADICIONAIS PARA CURRÍCULO
+   =================================== */
+
+/* Nome da empresa/organização */
+.timeline-company {
+  color: var(--orange-yellow-crayola);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-400);
+  line-height: 1.3;
+  margin-top: 4px;
+  margin-bottom: 8px;
+}
+
+/* Links no texto do timeline */
+.timeline-link {
+  color: var(--orange-yellow-crayola);
+  text-decoration: none;
+  transition: var(--transition-1);
+}
+
+.timeline-link:hover {
+  color: var(--vegas-gold);
+  text-decoration: underline;
+}
+
+/* Melhor espaçamento entre parágrafos */
+.timeline-text + .timeline-text {
+  margin-top: 10px;
+}
+
+/* Destaque para texto importante */
+.timeline-text strong {
+  color: var(--white-2);
+  font-weight: var(--fw-500);
+}
+
+/* Destaque para texto em itálico */
+.timeline-text em {
+  color: var(--light-gray-70);
+  font-style: italic;
+}
